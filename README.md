@@ -19,7 +19,7 @@ Science Parliament Quiz - Test Your Knowledge of Science Agencies!
 
 >>Contributing:
 
-  If you'd like to contribute to this project by adding more questions, improving the user interface, or fixing bugs, feel free to fork the repository 
+  If you'd like to contribute to this project by adding more questions, improving the user interface, feel free to fork the repository 
   and submit a pull request.
 
 
