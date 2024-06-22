@@ -10,8 +10,17 @@ Science Parliament Quiz - Test Your Knowledge of Science Agencies!
 
   1.Engaging User Interface: The code employs colorama to display captivating prompts and feedback. 
   2.Interactive Quiz: The script presents seven multiple-choice questions regarding various Indian science agencies and their corresponding acronyms.
-  3.Performance Tracking: It tracks user's answers, awarding a point for each correct response. Additionally, it calculates user's overall percentage score based on the total number of attempted questions.
-                          
+  3.Performance Tracking: It tracks user's answers, awarding a point for each correct response. Additionally, it calculates user's overall percentage score based 
+                          on the total number of attempted questions.
+
+>>Usage:
+
+  This code is intended for personal use or educational purposes.
+
+>>Contributing:
+
+  If you'd like to contribute to this project by adding more questions, improving the user interface, or fixing bugs, feel free to fork the repository 
+  and submit a pull request.
 
 
 
